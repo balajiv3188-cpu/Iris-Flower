@@ -1,1 +1,4 @@
-# Iris-Flower
+# Iris Dataset
+https://www.kaggle.com/code/drisrarahmad/iris-flower-dataset/input
+
+The Iris dataset is a classic and widely used dataset in machine learning It contains 150 rows and 5 columns, with each row representing a unique flower sample. The dataset includes four numeric features — sepal length, sepal width, petal length, and petal width — all measured in centimeters. The fifth column, species, is the target variable and represents the class of the iris plant, with three possible categories: Iris-setosa, Iris-versicolor, and Iris-virginica. This dataset is ideal for building classification models, where the goal is to predict the species of a flower based on its measurements. The distribution is balanced, with each class appearing 50 times. Key statistical values include an average sepal length of 5.84 cm and a petal length range from 1.0 cm to 6.9 cm, making it an excellent resource for learning supervised classification techniques.
